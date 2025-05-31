@@ -1,0 +1,10 @@
+pandas 
+numpy
+fastapi
+gunicorn
+google-generativeai
+apscheduler
+uvicorn
+scikit-learn
+dotenv
+jinja2
